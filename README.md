@@ -1,16 +1,29 @@
-## Hi there 👋
+ _________  ___  ___  ________  ________  _________   
+|\___   ___\\  \|\  \|\   __  \|\   ____\|\___   ___\ 
+\|___ \  \_\ \  \\\  \ \  \|\  \ \  \___|\|___ \  \_| 
+     \ \  \ \ \   __  \ \   __  \ \_____  \   \ \  \  
+      \ \  \ \ \  \ \  \ \  \ \  \|____|\  \   \ \  \ 
+       \ \__\ \ \__\ \__\ \__\ \__\____\_\  \   \ \__\
+        \|__|  \|__|\|__|\|__|\|__|\_________\   \|__|
+                                  \|_________|        
+                                                      
+                                                    
+Broadcast coordinator.
+I don’t code much.
+I vibe.
 
-<!--
-**FiLORUX/FiLORUX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make signals show up.
+Always on time.
+Sometimes for millions.
+Sometimes for none.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+0x00 coder
+0xFF drive
+AI is my IDE
+
+---
+
+Code works sometimes.
+I work 24/7.
