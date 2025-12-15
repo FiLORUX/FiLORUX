@@ -7,3 +7,9 @@ Thumbs.db
 .idea/
 *.swp
 *~
+
+# AI/LLM local settings
+.claude/
+.cursor/
+.aider/
+.continue/
