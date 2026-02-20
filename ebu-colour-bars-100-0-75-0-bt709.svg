@@ -1,0 +1,41 @@
+<!--
+  EBU_Bars_100_0_75_0_BT709.svg
+
+  Reference:  ITU-R Rec. BT.1729 / EBU Tech 3325
+  Resolution: 1920 × 1080 (Full HD, 16:9)
+  Colour space: BT.709 primaries, approximated to sRGB for display
+  Bar order:  White, Yellow, Cyan, Green, Magenta, Red, Blue
+
+  Notation 100/0/75/0:
+    White bar level   = 100 %
+    Black level       =   0 %
+    Colour bar max    =  75 %  (191 decimal, #BF hex)
+    Colour bar min    =   0 %
+
+  Bar width distribution:
+    1920 px ÷ 7 bars = 274 px × 5 + 275 px × 2
+    Extra pixels assigned to bars 1 (White) and 4 (Green)
+    to maintain visual symmetry around the centre axis.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1920 1080"
+     width="1920"
+     height="1080"
+     preserveAspectRatio="none"
+     role="img"
+     aria-label="EBU/IBA 100/0/75/0 Colour Bars — BT.709, 1920×1080">
+  <!-- Bar 1 · White   100 % · 275 px -->
+  <rect x="0"    y="0" width="275"  height="1080" fill="#FFFFFF"/>
+  <!-- Bar 2 · Yellow   75 % · 274 px -->
+  <rect x="275"  y="0" width="274"  height="1080" fill="#BFBF00"/>
+  <!-- Bar 3 · Cyan     75 % · 274 px -->
+  <rect x="549"  y="0" width="274"  height="1080" fill="#00BFBF"/>
+  <!-- Bar 4 · Green    75 % · 275 px -->
+  <rect x="823"  y="0" width="275"  height="1080" fill="#00BF00"/>
+  <!-- Bar 5 · Magenta  75 % · 274 px -->
+  <rect x="1098" y="0" width="274"  height="1080" fill="#BF00BF"/>
+  <!-- Bar 6 · Red      75 % · 274 px -->
+  <rect x="1372" y="0" width="274"  height="1080" fill="#BF0000"/>
+  <!-- Bar 7 · Blue     75 % · 274 px -->
+  <rect x="1646" y="0" width="274"  height="1080" fill="#0000BF"/>
+</svg>
