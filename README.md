@@ -37,6 +37,10 @@ I work 24/7.
 
 <samp>Broadcast Engineer</samp>
 
+[thåst.se](https://xn--thst-roa.se)&nbsp;&nbsp;·&nbsp;&nbsp;[thast.works](https://thast.works)
+
+</div>
+
 <br>
 
 <!-- EBU/IBA 100/0/75/0 Colour Bars · ITU-R BT.1729 · BT.709 sRGB approximation · 1920×1080 -->
