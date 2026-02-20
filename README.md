@@ -28,3 +28,8 @@ AI is my IDE
 
 Code works sometimes.
 I work 24/7.
+
+---
+
+David Thåst · Broadcast Engineer
+[thåst.se](https://xn--thst-roa.se) · [thast.works](https://thast.works)
