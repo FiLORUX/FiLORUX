@@ -30,6 +30,7 @@ Code works sometimes.
 I work 24/7.
 
 ---
+```
 
-David Thåst · Broadcast Engineer
-[thåst.se](https://xn--thst-roa.se) · [thast.works](https://thast.works)
+David Thåst  |  Broadcast Engineer<br>
+[thåst.se](https://xn--thst-roa.se)  |  [thast.works](https://thast.works)
