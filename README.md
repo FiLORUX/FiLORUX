@@ -39,7 +39,7 @@ I work 24/7.
 
 [thåst.se](https://xn--thst-roa.se)&nbsp;&nbsp;·&nbsp;&nbsp;[thast.works](https://thast.works)
 
-<sub><samp>upstream</samp>&nbsp;&nbsp;[CasparCG media-scanner #118](https://github.com/CasparCG/media-scanner/pull/118) thumbnails&nbsp;&nbsp;·&nbsp;&nbsp;[CasparCG server #1855](https://github.com/CasparCG/server/pull/1855) NDI shutdown</sub>
+<sub><samp>upstream</samp>&nbsp;&nbsp;[CasparCG media-scanner #118](https://github.com/CasparCG/media-scanner/pull/118) thumbnails&nbsp;&nbsp;·&nbsp;&nbsp;[CasparCG server #1855](https://github.com/CasparCG/server/pull/1855) NDI shutdown&nbsp;&nbsp;·&nbsp;&nbsp;[#1856](https://github.com/CasparCG/server/pull/1856) DeckLink output timing</sub>
 
 </div>
 
